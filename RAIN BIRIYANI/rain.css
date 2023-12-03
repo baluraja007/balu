@@ -1,0 +1,142 @@
+body{
+    background-image: url(backgroundful.png);
+}
+.menu{
+    background: orange;
+    border: 2px solid white;
+    height: 80px;
+    width: 100%;
+    border-top-left-radius:15px;
+    border-top-right-radius: 15px;
+    margin-top: 1px;
+  
+}
+li{
+    display: inline;
+   
+    padding: 20px 10px 15px 10px;
+    margin: 0px 10px 5px 0px;
+    font-size: 30px;
+    color: aqua;
+}
+ul{
+    float: right;
+
+}
+.back{
+    height: 70vh;
+    background-color: aqua;
+    width: 100%;
+    border: 2px solid white ;
+    display: grid;
+    grid-template-columns: 20% 60% 20% ;
+}
+.left{
+    border: 1px solid white;
+    background-image: url(background\ image.png);
+}
+.right{
+    border: 1px solid white;
+    background-image: url(background\ image.png);
+}
+.center{
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(biriyanibackground.png);
+}
+.searchbar{
+    border: 2px solid blanchedalmond;
+    padding: 13px;
+    width: 300px;
+    border-radius: 40px;
+    box-shadow: 0 0 5px o #123f;
+    background-blend-mode: screen;
+    background-image: url(background\ image.png);
+
+}
+.searchbar:hover{
+    background-color:black;
+    color:whitesmoke;
+    font-size: 20px;
+}
+button{
+    cursor: progress;
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+
+}
+.box{
+    display: flex;
+    border: 1px solid white;
+    height:150px;
+}
+
+.box1{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(i.png);
+    
+
+}
+
+.box2{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(2.png);
+}
+.box3{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(3.png);
+}
+.box4{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(4.png)
+}
+.box5{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(5.png)
+}
+.box6{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(6.png)
+}
+.box7{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(7.png)
+}
+.box8{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(8.png)
+}
+.box9{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(9.png)
+}
+.box10{
+    border: 2px solid red;
+    width: 180px;
+    border-radius:50%;
+    background-image: url(110.png)
+}
